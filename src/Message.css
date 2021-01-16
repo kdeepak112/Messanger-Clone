@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Shadows+Into+Light&display=swap');
+.message {
+    width: fit-content;
+    margin-left: auto;
+    font-size: 1.6rem;
+    text-align: right;
+}
+
+.message_user {
+    width: fit-content;
+    margin-right: auto;
+    font-size: 1.6rem;
+    text-align: left;
+}
+
+.container {
+    width: 70%;
+}
+
+.card {
+    font-family: 'Fredericka the Great', cursive;
+    padding: 0.4%;
+}
